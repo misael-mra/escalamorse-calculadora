@@ -1,5 +1,5 @@
-# escalamorse
+# Escalamorse
 
 Escala Morse, desenvolvido com HTML, CSS e JavaScript.
 
-Aplicativo para auxiliar a equipe de enfermagem no uso da escala morse para calculo de risco de queda dos pacientes internados em Hospitais ou Clinicas.
+Aplicativo desenvolvido para auxiliar a equipe de enfermagem do Hospital Geral Dr Waldemar Alcântara, no uso da escala morse para calculo de risco de queda dos pacientes internados.
