@@ -48,13 +48,13 @@ function totalScore(){
 
 function getInfoBasedOnScore(){
     if(totalScore() > 40){
-        var score_info = "RISCO ALTO DE QUEDAS";
+        var score_info = "RISCO ALTO DE QUEDAS!";
     } 
     else if(totalScore() >= 25){
         var score_info = "RISCO MODERADO DE QUEDAS!";
     } 
     else if(totalScore() < 24){
-        var score_info = "RISCO LEVE DE QUEDAS!";
+        var score_info = "RISCO LEVE DE QUEDAS.";
     }
 
     return score_info;
