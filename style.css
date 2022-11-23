@@ -116,8 +116,8 @@ font-weight: bold;
 
 #progress_bar {
   background-color: #048c7c;
-  width: 17%;
-  height: 20px;
+  width: 10%;
+  height: 18px;
   transition: all 100ms ease-in-out;
 }
 
